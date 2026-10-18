@@ -1,5 +1,5 @@
 # Hi 👋, I'm Rabbi Patuary 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+Full+Stack+Developer;I+build+with+Next.js+%26+MongoDB;Frontend+to+Backend%2C+I+do+it+all;Always+learning%2C+always+building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+Full+Stack+Developer;I+build+with+Next.js+%26+MongoDB;Frontend+to+Backend%2C+I+do+it+all;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 ---
 
@@ -35,7 +35,7 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](rabbipatuary1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:email@example.com)
 
 ---
 
@@ -47,3 +47,4 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
