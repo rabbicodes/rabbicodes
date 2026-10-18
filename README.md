@@ -1,5 +1,5 @@
 # Hi 👋, I'm Rabbi Patuary 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+Full+Stack+Developer;I+build+with+Next.js+%26+MongoDB;Frontend+to+Backend%2C+I+do+it+all;Always+learning%2C+always+building)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+Full+Stack+Developer;I+build+with+Next.js+%26+MongoDB;Frontend+to+Backend%2C+I+do+it+all;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 ---
 
